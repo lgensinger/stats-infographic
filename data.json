@@ -1,0 +1,202 @@
+[
+    {
+        "section": "innovation",
+        "title": "Total number of unique RTU assays",
+        "info":[
+        
+            {
+                "name": "Company A",
+                "value": 224,
+                "color": "#1159BD"
+            },
+            {
+                "name": "Competitor A",
+                "value": 107,
+                "color": "#B00909"
+            },
+            {
+                "name": "Competitor B",
+                "value": 119,
+                "color": "#ED3939"
+            }
+            ]
+    },  
+    { 
+        "section": "innovation",
+        "title": "Number of US patents issued",
+        "info":[
+        
+            {
+                "name": "Company A",
+                "value": 77,
+                "color": "#1159BD"
+            },
+            {
+                "name": "Competitor A",
+                "value": 46,
+                "color": "#B00909"
+            },
+            {
+                "name": "Competitor B",
+                "value": 67,
+                "color": "#ED3939"
+            }
+            ]
+    },
+    { 
+        "section": "innovation",
+        "title": "Number of 510K cleared digital pathology algorithms",
+        "info":[
+        
+            {
+                "name": "Company A",
+                "value": 7,
+                "color": "#1159BD"
+            },
+            {
+                "name": "Competitor A",
+                "value": 0,
+                "color": "#B00909"
+            },
+            {
+                "name": "Competitor B",
+                "value": 3,
+                "color": "#ED3939"
+            }
+            ]
+    },
+    { 
+        "section": "innovation",
+        "title": "Number of new platforms launched since 2008",
+        "info":[
+        
+            {
+                "name": "Company A",
+                "value": 4,
+                "color": "#1159BD"
+            },
+            {
+                "name": "Competitor A",
+                "value": 0,
+                "color": "#B00909"
+            },
+            {
+                "name": "Competitor B",
+                "value": 1,
+                "color": "#ED3939"
+            }
+            ]
+    },
+    {
+        "section": "market",
+        "title": "North American workflow solutions market share",
+        "info":[
+            {
+                "name": "Company A",
+                "value": 66,
+                "color": "#1159BD"
+            },
+            {
+                "name": "Competitor A",
+                "value": 14,
+                "color": "#B00909"
+            },
+            {
+                "name": "Competitor B",
+                "value": 12,
+                "color": "#ED3939"
+            },
+            {
+                "name": "Other",
+                "value": 8,
+                "color": "#ccc"
+            }
+            ]
+    },
+    {
+        "section": "market",
+        "title": "North American workflow solutions market share",
+        "info":[
+            {
+                "name": "Company A",
+                "value": 22,
+                "color": "#1159BD"
+            },
+            {
+                "name": "Competitor A",
+                "value": 1,
+                "color": "#B00909"
+            },
+            {
+                "name": "Competitor B",
+                "value": 7,
+                "color": "#ED3939"
+            },
+            {
+                "name": "Other",
+                "value": 70,
+                "color": "#ccc"
+            }
+            ]
+    },
+    { 
+        "section": "quality",
+        "title": "Number of adverse events reported to FDA",
+        "info":[
+        
+            {
+                "name": "Company A",
+                "value": 9,
+                "color": "#1159BD"
+            },
+            {
+                "name": "Competitor A",
+                "value": 0,
+                "color": "#B00909"
+            },
+            {
+                "name": "Competitor B",
+                "value": 71,
+                "color": "#ED3939"
+            }
+            ]
+    },
+    { 
+        "section": "quality",
+        "title": "Number of FDA recalls",
+        "info":[
+        
+            {
+                "name": "Company A",
+                "value": 0,
+                "color": "#1159BD"
+            },
+            {
+                "name": "Competitor A",
+                "value": 2,
+                "color": "#B00909"
+            },
+            {
+                "name": "Competitor B",
+                "value": 9,
+                "color": "#ED3939"
+            }
+            ]
+    }
+
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
